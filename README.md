@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub
+Name: Allison Hagan
 
 ## 🤓 Course overview and learning outcomes
 
